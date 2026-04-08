@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Linea PC B
+=======
+Línea PC A
+Línea PC A
+>>>>>>> 88c8b156f1f1a1ec2e8a341b41baf1bd4f9ad52c
